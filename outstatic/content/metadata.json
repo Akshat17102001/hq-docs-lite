@@ -1,7 +1,25 @@
 {
-  "commit": "13d3beed62c0f42d789e75da5dac86a0a652a752",
-  "generated": "2025-01-28T08:24:54.938Z",
+  "commit": "f625bd734b1fdffa27cddd9f7ebede00a6c0c1d9",
+  "generated": "Tue, 28 Jan 2025 08:25:13 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "fac2262cecb49160d52a2a3a68dc0718875bf879",
+        "hash": "1678583174",
+        "path": "outstatic/content/docs/fetching-data.md"
+      },
+      "author": {
+        "name": "Jakob Heuser",
+        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-07-25T12:28:25.000Z",
+      "slug": "fetching-data",
+      "status": "published",
+      "title": "Fetching data"
+    },
     {
       "__outstatic": {
         "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
@@ -58,6 +76,24 @@
     },
     {
       "__outstatic": {
+        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
+        "hash": "85927068",
+        "path": "outstatic/content/docs/migrating-to-v1.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Migrating Outstatic to >v1.0.0",
+      "publishedAt": "2023-11-11T18:59:51.912Z",
+      "slug": "migrating-to-v1",
+      "status": "published",
+      "title": "Migrating to v1"
+    },
+    {
+      "__outstatic": {
         "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
         "hash": "191850098",
         "path": "outstatic/content/docs/local-development.md"
@@ -73,24 +109,6 @@
       "slug": "local-development",
       "status": "published",
       "title": "Local Development"
-    },
-    {
-      "__outstatic": {
-        "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
-        "hash": "1219318492",
-        "path": "outstatic/content/docs/github-apps-authentication.md"
-      },
-      "author": {
-        "name": "Anthony Quéré",
-        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-26T22:00:00.000Z",
-      "slug": "github-apps-authentication",
-      "status": "published",
-      "title": "GitHub Apps Authentication"
     },
     {
       "__outstatic": {
@@ -112,6 +130,24 @@
     },
     {
       "__outstatic": {
+        "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
+        "hash": "1219318492",
+        "path": "outstatic/content/docs/github-apps-authentication.md"
+      },
+      "author": {
+        "name": "Anthony Quéré",
+        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-26T22:00:00.000Z",
+      "slug": "github-apps-authentication",
+      "status": "published",
+      "title": "GitHub Apps Authentication"
+    },
+    {
+      "__outstatic": {
         "commit": "c8218248038827b96fc1d855ae174b7b4b7efb38",
         "hash": "1219115964",
         "path": "outstatic/content/docs/getting-started.md"
@@ -130,39 +166,21 @@
     },
     {
       "__outstatic": {
-        "commit": "fac2262cecb49160d52a2a3a68dc0718875bf879",
-        "hash": "1678583174",
-        "path": "outstatic/content/docs/fetching-data.md"
-      },
-      "author": {
-        "name": "Jakob Heuser",
-        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-07-25T12:28:25.000Z",
-      "slug": "fetching-data",
-      "status": "published",
-      "title": "Fetching data"
-    },
-    {
-      "__outstatic": {
-        "commit": "137a5f83e347e6dcf6378422bbe70e917fe02c17",
-        "hash": "398243357",
-        "path": "outstatic/content/this-is-test-app-doc/this-is-test-app-doc.md"
+        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
+        "hash": "753873883",
+        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
       },
       "author": {
         "name": "Akshat jangid",
         "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
       },
-      "collection": "this-is-test-app-doc",
+      "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-28T08:53:24.808Z",
-      "slug": "this-is-test-app-doc",
+      "publishedAt": "2025-01-28T08:57:17.992Z",
+      "slug": "this-is-the-test-new-app",
       "status": "published",
-      "title": "This is test app doc"
+      "title": "This is the test new app"
     },
     {
       "__outstatic": {
@@ -181,6 +199,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "137a5f83e347e6dcf6378422bbe70e917fe02c17",
+        "hash": "398243357",
+        "path": "outstatic/content/this-is-test-app-doc/this-is-test-app-doc.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "this-is-test-app-doc",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T08:53:24.808Z",
+      "slug": "this-is-test-app-doc",
+      "status": "published",
+      "title": "This is test app doc"
     },
     {
       "__outstatic": {
@@ -217,42 +253,6 @@
       "slug": "the-content-editor",
       "status": "published",
       "title": "The content editor"
-    },
-    {
-      "__outstatic": {
-        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
-        "hash": "85927068",
-        "path": "outstatic/content/docs/migrating-to-v1.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Migrating Outstatic to >v1.0.0",
-      "publishedAt": "2023-11-11T18:59:51.912Z",
-      "slug": "migrating-to-v1",
-      "status": "published",
-      "title": "Migrating to v1"
-    },
-    {
-      "__outstatic": {
-        "commit": "13d3beed62c0f42d789e75da5dac86a0a652a752",
-        "hash": "753873883",
-        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T08:57:17.992Z",
-      "slug": "this-is-the-test-new-app",
-      "status": "published",
-      "title": "This is the test new app"
     }
   ]
 }

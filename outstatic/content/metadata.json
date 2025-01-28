@@ -1,6 +1,6 @@
 {
-  "commit": "34b59fbeaed760843a8c57f95bf996d62a460341",
-  "generated": "2024-03-17T08:27:23.294Z",
+  "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
+  "generated": "2025-01-28T08:20:50.754Z",
   "metadata": [
     {
       "__outstatic": {
@@ -235,6 +235,24 @@
       "slug": "getting-started",
       "status": "published",
       "title": "Getting started"
+    },
+    {
+      "__outstatic": {
+        "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
+        "hash": "398243357",
+        "path": "outstatic/content/this-is-test-app-doc/this-is-test-app-doc.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "this-is-test-app-doc",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T08:53:24.808Z",
+      "slug": "this-is-test-app-doc",
+      "status": "published",
+      "title": "This is test app doc"
     }
   ]
 }

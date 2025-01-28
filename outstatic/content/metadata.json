@@ -1,6 +1,6 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:33.036Z",
+  "generated": "2025-01-28T12:06:37.094Z",
   "metadata": [
     {
       "__outstatic": {
@@ -112,24 +112,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
-        "hash": "191850098",
-        "path": "outstatic/content/docs/local-development.md"
-      },
-      "author": {
-        "name": "leplay",
-        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-25T09:42:29.000Z",
-      "slug": "local-development",
-      "status": "published",
-      "title": "Local Development"
-    },
-    {
-      "__outstatic": {
         "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
         "hash": "2229548952",
         "path": "outstatic/content/docs/introduction.md"
@@ -145,6 +127,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
+        "hash": "85927068",
+        "path": "outstatic/content/docs/migrating-to-v1.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Migrating Outstatic to >v1.0.0",
+      "publishedAt": "2023-11-11T18:59:51.912Z",
+      "slug": "migrating-to-v1",
+      "status": "published",
+      "title": "Migrating to v1"
     },
     {
       "__outstatic": {

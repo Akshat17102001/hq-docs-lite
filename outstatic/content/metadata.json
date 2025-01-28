@@ -1,6 +1,6 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:37.094Z",
+  "generated": "2025-01-28T12:06:40.814Z",
   "metadata": [
     {
       "__outstatic": {
@@ -112,6 +112,24 @@
     },
     {
       "__outstatic": {
+        "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
+        "hash": "191850098",
+        "path": "outstatic/content/docs/local-development.md"
+      },
+      "author": {
+        "name": "leplay",
+        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-25T09:42:29.000Z",
+      "slug": "local-development",
+      "status": "published",
+      "title": "Local Development"
+    },
+    {
+      "__outstatic": {
         "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
         "hash": "2229548952",
         "path": "outstatic/content/docs/introduction.md"
@@ -145,24 +163,6 @@
       "slug": "migrating-to-v1",
       "status": "published",
       "title": "Migrating to v1"
-    },
-    {
-      "__outstatic": {
-        "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
-        "hash": "1219318492",
-        "path": "outstatic/content/docs/github-apps-authentication.md"
-      },
-      "author": {
-        "name": "Anthony Quéré",
-        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-26T22:00:00.000Z",
-      "slug": "github-apps-authentication",
-      "status": "published",
-      "title": "GitHub Apps Authentication"
     },
     {
       "__outstatic": {

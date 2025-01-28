@@ -1,6 +1,6 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:29.581Z",
+  "generated": "2025-01-28T12:06:33.036Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,24 +148,6 @@
     },
     {
       "__outstatic": {
-        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
-        "hash": "85927068",
-        "path": "outstatic/content/docs/migrating-to-v1.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Migrating Outstatic to >v1.0.0",
-      "publishedAt": "2023-11-11T18:59:51.912Z",
-      "slug": "migrating-to-v1",
-      "status": "published",
-      "title": "Migrating to v1"
-    },
-    {
-      "__outstatic": {
         "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
         "hash": "1219318492",
         "path": "outstatic/content/docs/github-apps-authentication.md"
@@ -235,6 +217,24 @@
       "slug": "the-content-editor",
       "status": "published",
       "title": "The content editor"
+    },
+    {
+      "__outstatic": {
+        "commit": "2f922d9ebe1b8066aeb885cd0e435f7951cf39a1",
+        "hash": "360122755",
+        "path": "outstatic/content/docs/using-with-next-js-12.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-12T11:50:07.653Z",
+      "slug": "using-with-next-js-12",
+      "status": "published",
+      "title": "Using with Next.js 12"
     },
     {
       "__outstatic": {

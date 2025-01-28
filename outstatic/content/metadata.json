@@ -1,6 +1,6 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:53.702Z",
+  "generated": "2025-01-28T12:06:56.768Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,9 +40,9 @@
     },
     {
       "__outstatic": {
-        "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
-        "hash": "490214365",
-        "path": "outstatic/content/docs/faqs.md"
+        "commit": "516f46fcd98a731ccc2528a0c58b80c753a5f638",
+        "hash": "2164911617",
+        "path": "outstatic/content/docs/environment-variables.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -51,10 +51,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-11-20T13:07:51.000Z",
-      "slug": "faqs",
+      "publishedAt": "2024-03-17T12:36:25.000Z",
+      "slug": "environment-variables",
       "status": "published",
-      "title": "FAQs"
+      "title": "Environment Variables"
     },
     {
       "__outstatic": {

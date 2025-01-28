@@ -1,6 +1,6 @@
 {
-  "commit": "f625bd734b1fdffa27cddd9f7ebede00a6c0c1d9",
-  "generated": "Tue, 28 Jan 2025 08:25:13 GMT",
+  "commit": "590004115787004123a52312ce1ea3a2b75c3600",
+  "generated": "2025-01-28T12:05:38.913Z",
   "metadata": [
     {
       "__outstatic": {
@@ -253,6 +253,24 @@
       "slug": "the-content-editor",
       "status": "published",
       "title": "The content editor"
+    },
+    {
+      "__outstatic": {
+        "commit": "590004115787004123a52312ce1ea3a2b75c3600",
+        "hash": "2189493225",
+        "path": "outstatic/content/docs/make-it-new-file.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:38:17.627Z",
+      "slug": "make-it-new-file",
+      "status": "published",
+      "title": "Make it new file"
     }
   ]
 }

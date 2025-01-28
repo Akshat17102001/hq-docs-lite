@@ -1,6 +1,6 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:50.170Z",
+  "generated": "2025-01-28T12:06:53.702Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,24 +40,6 @@
     },
     {
       "__outstatic": {
-        "commit": "516f46fcd98a731ccc2528a0c58b80c753a5f638",
-        "hash": "2164911617",
-        "path": "outstatic/content/docs/environment-variables.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-17T12:36:25.000Z",
-      "slug": "environment-variables",
-      "status": "published",
-      "title": "Environment Variables"
-    },
-    {
-      "__outstatic": {
         "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
         "hash": "490214365",
         "path": "outstatic/content/docs/faqs.md"
@@ -73,6 +55,24 @@
       "slug": "faqs",
       "status": "published",
       "title": "FAQs"
+    },
+    {
+      "__outstatic": {
+        "commit": "b0dae5dae2d5d55ae8fb07cea8d1bf2da77327f1",
+        "hash": "3703212107",
+        "path": "outstatic/content/docs/custom-fields.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-06T20:01:41.000Z",
+      "slug": "custom-fields",
+      "status": "published",
+      "title": "Custom Fields"
     },
     {
       "__outstatic": {

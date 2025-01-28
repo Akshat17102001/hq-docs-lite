@@ -1,8 +1,7 @@
 {
-  "commit": "3b8c32f292b52a47fc7dbe0ae53c6703e9962996",
-  "generated": "2025-01-28T12:11:58.669Z",
+  "commit": "ab3592a465d338aee8bb74993b5677be79299eda",
+  "generated": "2025-01-28T12:17:17.807Z",
   "metadata": [
-    
     {
       "__outstatic": {
         "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
@@ -21,7 +20,6 @@
       "status": "published",
       "title": "Introduction"
     },
-    
     {
       "__outstatic": {
         "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
@@ -111,6 +109,24 @@
       "slug": "this-is-the-test-new-app",
       "status": "published",
       "title": "This is the test new app"
+    },
+    {
+      "__outstatic": {
+        "commit": "ab3592a465d338aee8bb74993b5677be79299eda",
+        "hash": "852847260",
+        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:49:55.916Z",
+      "slug": "this-is-be-final-doc-of-mine",
+      "status": "published",
+      "title": "This is be final doc of mine"
     }
   ]
 }

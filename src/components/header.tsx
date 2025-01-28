@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import SocialLinks from './social-links'
+// import SocialLinks from './social-links'
 
 const Header = () => {
   return (
@@ -26,9 +26,9 @@ const Header = () => {
           </g>
         </svg>
       </Link>
-      <div className="hidden lg:block">
+      {/* <div className="hidden lg:block">
         <SocialLinks />
-      </div>
+      </div> */}
     </nav>
   )
 }

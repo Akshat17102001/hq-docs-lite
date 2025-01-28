@@ -1,6 +1,6 @@
 {
-  "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:56.768Z",
+  "commit": "3b8c32f292b52a47fc7dbe0ae53c6703e9962996",
+  "generated": "2025-01-28T12:11:58.669Z",
   "metadata": [
     {
       "__outstatic": {
@@ -163,24 +163,6 @@
       "slug": "github-apps-authentication",
       "status": "published",
       "title": "GitHub Apps Authentication"
-    },
-    {
-      "__outstatic": {
-        "commit": "137a5f83e347e6dcf6378422bbe70e917fe02c17",
-        "hash": "398243357",
-        "path": "outstatic/content/this-is-test-app-doc/this-is-test-app-doc.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "this-is-test-app-doc",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T08:53:24.808Z",
-      "slug": "this-is-test-app-doc",
-      "status": "published",
-      "title": "This is test app doc"
     },
     {
       "__outstatic": {

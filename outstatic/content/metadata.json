@@ -1,7 +1,25 @@
 {
-  "commit": "590004115787004123a52312ce1ea3a2b75c3600",
-  "generated": "2025-01-28T12:05:38.913Z",
+  "commit": "ddf95562a8a6d0d272ab242fe0760dd668155f86",
+  "generated": "Tue, 28 Jan 2025 12:05:47 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "c8218248038827b96fc1d855ae174b7b4b7efb38",
+        "hash": "1219115964",
+        "path": "outstatic/content/docs/getting-started.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Get started with Outstatic",
+      "publishedAt": "2024-03-16T18:34:15.000Z",
+      "slug": "getting-started",
+      "status": "published",
+      "title": "Getting started"
+    },
     {
       "__outstatic": {
         "commit": "fac2262cecb49160d52a2a3a68dc0718875bf879",
@@ -19,24 +37,6 @@
       "slug": "fetching-data",
       "status": "published",
       "title": "Fetching data"
-    },
-    {
-      "__outstatic": {
-        "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
-        "hash": "490214365",
-        "path": "outstatic/content/docs/faqs.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-20T13:07:51.000Z",
-      "slug": "faqs",
-      "status": "published",
-      "title": "FAQs"
     },
     {
       "__outstatic": {
@@ -58,6 +58,24 @@
     },
     {
       "__outstatic": {
+        "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
+        "hash": "490214365",
+        "path": "outstatic/content/docs/faqs.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-20T13:07:51.000Z",
+      "slug": "faqs",
+      "status": "published",
+      "title": "FAQs"
+    },
+    {
+      "__outstatic": {
         "commit": "b0dae5dae2d5d55ae8fb07cea8d1bf2da77327f1",
         "hash": "3703212107",
         "path": "outstatic/content/docs/custom-fields.md"
@@ -76,21 +94,21 @@
     },
     {
       "__outstatic": {
-        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
-        "hash": "85927068",
-        "path": "outstatic/content/docs/migrating-to-v1.md"
+        "commit": "8751c5ea1ef9f83d7c1b85ef688416334340ad25",
+        "hash": "2189493225",
+        "path": "outstatic/content/docs/make-it-new-file.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
       },
       "collection": "docs",
       "coverImage": "",
-      "description": "Migrating Outstatic to >v1.0.0",
-      "publishedAt": "2023-11-11T18:59:51.912Z",
-      "slug": "migrating-to-v1",
+      "description": "",
+      "publishedAt": "2025-01-28T12:38:17.627Z",
+      "slug": "make-it-new-file",
       "status": "published",
-      "title": "Migrating to v1"
+      "title": "Make it new file"
     },
     {
       "__outstatic": {
@@ -130,6 +148,24 @@
     },
     {
       "__outstatic": {
+        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
+        "hash": "85927068",
+        "path": "outstatic/content/docs/migrating-to-v1.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Migrating Outstatic to >v1.0.0",
+      "publishedAt": "2023-11-11T18:59:51.912Z",
+      "slug": "migrating-to-v1",
+      "status": "published",
+      "title": "Migrating to v1"
+    },
+    {
+      "__outstatic": {
         "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
         "hash": "1219318492",
         "path": "outstatic/content/docs/github-apps-authentication.md"
@@ -145,60 +181,6 @@
       "slug": "github-apps-authentication",
       "status": "published",
       "title": "GitHub Apps Authentication"
-    },
-    {
-      "__outstatic": {
-        "commit": "c8218248038827b96fc1d855ae174b7b4b7efb38",
-        "hash": "1219115964",
-        "path": "outstatic/content/docs/getting-started.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Get started with Outstatic",
-      "publishedAt": "2024-03-16T18:34:15.000Z",
-      "slug": "getting-started",
-      "status": "published",
-      "title": "Getting started"
-    },
-    {
-      "__outstatic": {
-        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
-        "hash": "753873883",
-        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T08:57:17.992Z",
-      "slug": "this-is-the-test-new-app",
-      "status": "published",
-      "title": "This is the test new app"
-    },
-    {
-      "__outstatic": {
-        "commit": "d4d2f4af1fd863942d54760c4fbc191ad59f55e0",
-        "hash": "2170562214",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-16T15:18:37.000Z",
-      "slug": "docs-menu",
-      "status": "published",
-      "title": "Docs Menu"
     },
     {
       "__outstatic": {
@@ -220,21 +202,21 @@
     },
     {
       "__outstatic": {
-        "commit": "2f922d9ebe1b8066aeb885cd0e435f7951cf39a1",
-        "hash": "360122755",
-        "path": "outstatic/content/docs/using-with-next-js-12.md"
+        "commit": "d4d2f4af1fd863942d54760c4fbc191ad59f55e0",
+        "hash": "2170562214",
+        "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
-      "collection": "docs",
+      "collection": "menus",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-09-12T11:50:07.653Z",
-      "slug": "using-with-next-js-12",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
       "status": "published",
-      "title": "Using with Next.js 12"
+      "title": "Docs Menu"
     },
     {
       "__outstatic": {
@@ -256,9 +238,27 @@
     },
     {
       "__outstatic": {
-        "commit": "590004115787004123a52312ce1ea3a2b75c3600",
-        "hash": "2189493225",
-        "path": "outstatic/content/docs/make-it-new-file.md"
+        "commit": "2f922d9ebe1b8066aeb885cd0e435f7951cf39a1",
+        "hash": "360122755",
+        "path": "outstatic/content/docs/using-with-next-js-12.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-12T11:50:07.653Z",
+      "slug": "using-with-next-js-12",
+      "status": "published",
+      "title": "Using with Next.js 12"
+    },
+    {
+      "__outstatic": {
+        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
+        "hash": "753873883",
+        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
       },
       "author": {
         "name": "Akshat jangid",
@@ -267,10 +267,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-28T12:38:17.627Z",
-      "slug": "make-it-new-file",
+      "publishedAt": "2025-01-28T08:57:17.992Z",
+      "slug": "this-is-the-test-new-app",
       "status": "published",
-      "title": "Make it new file"
+      "title": "This is the test new app"
     }
   ]
 }

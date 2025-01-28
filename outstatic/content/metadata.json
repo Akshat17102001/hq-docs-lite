@@ -1,6 +1,6 @@
 {
-  "commit": "ddf95562a8a6d0d272ab242fe0760dd668155f86",
-  "generated": "Tue, 28 Jan 2025 12:05:47 GMT",
+  "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
+  "generated": "2025-01-28T12:06:22.867Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,24 +217,6 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "8dd2d03ee2aed6b7be17073010b6b83deb94db53",
-        "hash": "2335074735",
-        "path": "outstatic/content/docs/the-content-editor.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Learn how the Outstatic Content Editor works.",
-      "publishedAt": "2022-10-26T12:26:38.000Z",
-      "slug": "the-content-editor",
-      "status": "published",
-      "title": "The content editor"
     },
     {
       "__outstatic": {

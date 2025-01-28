@@ -1,6 +1,6 @@
 {
-  "commit": "7a2c54188274725d522077cd842c747840b801a9",
-  "generated": "Tue, 28 Jan 2025 08:21:05 GMT",
+  "commit": "13d3beed62c0f42d789e75da5dac86a0a652a752",
+  "generated": "2025-01-28T08:24:54.938Z",
   "metadata": [
     {
       "__outstatic": {
@@ -235,6 +235,24 @@
       "slug": "migrating-to-v1",
       "status": "published",
       "title": "Migrating to v1"
+    },
+    {
+      "__outstatic": {
+        "commit": "13d3beed62c0f42d789e75da5dac86a0a652a752",
+        "hash": "753873883",
+        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T08:57:17.992Z",
+      "slug": "this-is-the-test-new-app",
+      "status": "published",
+      "title": "This is the test new app"
     }
   ]
 }

@@ -1,7 +1,61 @@
 {
-  "commit": "ab3592a465d338aee8bb74993b5677be79299eda",
-  "generated": "2025-01-28T12:17:17.807Z",
+  "commit": "e804f530c0795a0c5d112626550693d74cd938dd",
+  "generated": "Tue, 28 Jan 2025 12:17:25 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
+        "hash": "852847260",
+        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:49:55.916Z",
+      "slug": "this-is-be-final-doc-of-mine",
+      "status": "published",
+      "title": "This is be final doc of mine"
+    },
+    {
+      "__outstatic": {
+        "commit": "8751c5ea1ef9f83d7c1b85ef688416334340ad25",
+        "hash": "2189493225",
+        "path": "outstatic/content/docs/make-it-new-file.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:38:17.627Z",
+      "slug": "make-it-new-file",
+      "status": "published",
+      "title": "Make it new file"
+    },
+    {
+      "__outstatic": {
+        "commit": "50fd66a664bb41e9aff094491fb905627dc61426",
+        "hash": "2908289308",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
+      "status": "published",
+      "title": "Docs Menu"
+    },
     {
       "__outstatic": {
         "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
@@ -19,114 +73,6 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
-        "hash": "753873883",
-        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T08:57:17.992Z",
-      "slug": "this-is-the-test-new-app",
-      "status": "published",
-      "title": "This is the test new app"
-    },
-    {
-      "__outstatic": {
-        "commit": "d4d2f4af1fd863942d54760c4fbc191ad59f55e0",
-        "hash": "2170562214",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-16T15:18:37.000Z",
-      "slug": "docs-menu",
-      "status": "published",
-      "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "8dd2d03ee2aed6b7be17073010b6b83deb94db53",
-        "hash": "2335074735",
-        "path": "outstatic/content/docs/the-content-editor.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Learn how the Outstatic Content Editor works.",
-      "publishedAt": "2022-10-26T12:26:38.000Z",
-      "slug": "the-content-editor",
-      "status": "published",
-      "title": "The content editor"
-    },
-    {
-      "__outstatic": {
-        "commit": "2f922d9ebe1b8066aeb885cd0e435f7951cf39a1",
-        "hash": "360122755",
-        "path": "outstatic/content/docs/using-with-next-js-12.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-12T11:50:07.653Z",
-      "slug": "using-with-next-js-12",
-      "status": "published",
-      "title": "Using with Next.js 12"
-    },
-    {
-      "__outstatic": {
-        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
-        "hash": "753873883",
-        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T08:57:17.992Z",
-      "slug": "this-is-the-test-new-app",
-      "status": "published",
-      "title": "This is the test new app"
-    },
-    {
-      "__outstatic": {
-        "commit": "ab3592a465d338aee8bb74993b5677be79299eda",
-        "hash": "852847260",
-        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T12:49:55.916Z",
-      "slug": "this-is-be-final-doc-of-mine",
-      "status": "published",
-      "title": "This is be final doc of mine"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "commit": "f625bd734b1fdffa27cddd9f7ebede00a6c0c1d9",
-  "generated": "Tue, 28 Jan 2025 08:25:13 GMT",
+  "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
+  "generated": "2025-01-28T12:06:56.768Z",
   "metadata": [
     
     {
@@ -57,6 +57,60 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "8dd2d03ee2aed6b7be17073010b6b83deb94db53",
+        "hash": "2335074735",
+        "path": "outstatic/content/docs/the-content-editor.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Learn how the Outstatic Content Editor works.",
+      "publishedAt": "2022-10-26T12:26:38.000Z",
+      "slug": "the-content-editor",
+      "status": "published",
+      "title": "The content editor"
+    },
+    {
+      "__outstatic": {
+        "commit": "2f922d9ebe1b8066aeb885cd0e435f7951cf39a1",
+        "hash": "360122755",
+        "path": "outstatic/content/docs/using-with-next-js-12.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-12T11:50:07.653Z",
+      "slug": "using-with-next-js-12",
+      "status": "published",
+      "title": "Using with Next.js 12"
+    },
+    {
+      "__outstatic": {
+        "commit": "0239ca0a0b09adcbc396422524531d3ab91484a2",
+        "hash": "753873883",
+        "path": "outstatic/content/docs/this-is-the-test-new-app.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T08:57:17.992Z",
+      "slug": "this-is-the-test-new-app",
+      "status": "published",
+      "title": "This is the test new app"
     }
   ]
 }

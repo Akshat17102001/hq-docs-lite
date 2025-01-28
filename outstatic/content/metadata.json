@@ -1,25 +1,7 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:40.814Z",
+  "generated": "2025-01-28T12:06:46.649Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "c8218248038827b96fc1d855ae174b7b4b7efb38",
-        "hash": "1219115964",
-        "path": "outstatic/content/docs/getting-started.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Get started with Outstatic",
-      "publishedAt": "2024-03-16T18:34:15.000Z",
-      "slug": "getting-started",
-      "status": "published",
-      "title": "Getting started"
-    },
     {
       "__outstatic": {
         "commit": "fac2262cecb49160d52a2a3a68dc0718875bf879",
@@ -163,6 +145,24 @@
       "slug": "migrating-to-v1",
       "status": "published",
       "title": "Migrating to v1"
+    },
+    {
+      "__outstatic": {
+        "commit": "fcff033f1fe350029d826387185c5c4bddd9439a",
+        "hash": "1219318492",
+        "path": "outstatic/content/docs/github-apps-authentication.md"
+      },
+      "author": {
+        "name": "Anthony Quéré",
+        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-26T22:00:00.000Z",
+      "slug": "github-apps-authentication",
+      "status": "published",
+      "title": "GitHub Apps Authentication"
     },
     {
       "__outstatic": {

@@ -1,7 +1,25 @@
 {
   "commit": "c864b7cbb0d0f5729e2585bf175cec760371aa74",
-  "generated": "2025-01-28T12:06:46.649Z",
+  "generated": "2025-01-28T12:06:50.170Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "c8218248038827b96fc1d855ae174b7b4b7efb38",
+        "hash": "1219115964",
+        "path": "outstatic/content/docs/getting-started.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Get started with Outstatic",
+      "publishedAt": "2024-03-16T18:34:15.000Z",
+      "slug": "getting-started",
+      "status": "published",
+      "title": "Getting started"
+    },
     {
       "__outstatic": {
         "commit": "fac2262cecb49160d52a2a3a68dc0718875bf879",
@@ -55,24 +73,6 @@
       "slug": "faqs",
       "status": "published",
       "title": "FAQs"
-    },
-    {
-      "__outstatic": {
-        "commit": "b0dae5dae2d5d55ae8fb07cea8d1bf2da77327f1",
-        "hash": "3703212107",
-        "path": "outstatic/content/docs/custom-fields.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T20:01:41.000Z",
-      "slug": "custom-fields",
-      "status": "published",
-      "title": "Custom Fields"
     },
     {
       "__outstatic": {

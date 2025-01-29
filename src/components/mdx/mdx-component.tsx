@@ -9,6 +9,17 @@ const MDXComponentsMap = {
   a: CustomLink,
   Image,
   img: ({ ...props }: any) => <img className="border rounded-lg" {...props} />,
+  // video: ({ src, controls = true, ...props }: any) => (
+  //   <video
+  //     className="rounded-lg border mt-4"
+  //     src={src}
+  //     controls={controls}
+  //     {...props}
+  //   >
+  //     Your browser does not support the video tag.
+  //   </video>
+  // ),
+
   pre: Pre,
   code: CustomCode
 }

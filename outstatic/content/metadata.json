@@ -1,25 +1,7 @@
 {
-  "commit": "865a4170e408c7e150750e53e9c80ca81c440980",
-  "generated": "Wed, 29 Jan 2025 12:36:48 GMT",
+  "commit": "14874027e0633ce29d1c0dda5ce2aaaca33d735a",
+  "generated": "2025-01-29T12:47:55.394Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "bdae0fb7e5440f975608f2f39b40014a92a2fa7f",
-        "hash": "1903587701",
-        "path": "outstatic/content/docs/hiring-manager-demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T11:30:54.238Z",
-      "slug": "hiring-manager-demo",
-      "status": "published",
-      "title": "Hiring Manager Demo"
-    },
     {
       "__outstatic": {
         "commit": "7d11805390acf982e01af693251bbc8781027032",
@@ -127,6 +109,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "14874027e0633ce29d1c0dda5ce2aaaca33d735a",
+        "hash": "174189173",
+        "path": "outstatic/content/docs/hiring-manager-demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T11:30:54.238Z",
+      "slug": "hiring-manager-demo",
+      "status": "published",
+      "title": "Hiring Manager Demo"
     }
   ]
 }

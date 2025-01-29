@@ -69,12 +69,17 @@ const MDXComponentsMap = {
     // Check if the image is actually a video placeholder
     console.log("src alt", src, alt);
     return (
-      <video
-        className="rounded-lg border mt-4 w-full"
-        src={alt} // Use the alt text as video URL
-        controls
-        {...props}
-      >
+      <video 
+          className="rounded-lg border mt-4 w-full"
+          src={alt}
+          controls={true}
+          controlsList="nodownload" 
+          preload="metadata"
+          playsInline
+          {...props}
+        >
+          <source src={alt} type="video/mp4" />
+          <source src={alt} type="video/webm" />
         Your browser does not support the video tag.
       </video>
     );

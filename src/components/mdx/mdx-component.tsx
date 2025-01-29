@@ -24,6 +24,8 @@ const MDXComponentsMap = {
   code: CustomCode
 }
 
+console.log("MDX component is", MDXComponentsMap)
+
 type MDXComponentProps = {
   content: string
   components?: Record<string, any>

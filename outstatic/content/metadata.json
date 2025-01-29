@@ -1,6 +1,6 @@
 {
-  "commit": "305b3e99dbe29c4067bd34eafec017dfc574ec10",
-  "generated": "Wed, 29 Jan 2025 10:10:57 GMT",
+  "commit": "1e168bf409a3b909d52a87c4cefa08c421263356",
+  "generated": "2025-01-29T10:12:52.111Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,24 +40,6 @@
     },
     {
       "__outstatic": {
-        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
-        "hash": "852847260",
-        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T12:49:55.916Z",
-      "slug": "this-is-be-final-doc-of-mine",
-      "status": "published",
-      "title": "This is be final doc of mine"
-    },
-    {
-      "__outstatic": {
         "commit": "9a1d55adcd85a44811b41a39ea11421a9843b404",
         "hash": "3868772039",
         "path": "outstatic/content/docs/make-it-new-file.md"
@@ -91,6 +73,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e168bf409a3b909d52a87c4cefa08c421263356",
+        "hash": "302500592",
+        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:49:55.916Z",
+      "slug": "this-is-be-final-doc-of-mine",
+      "status": "published",
+      "title": "This is be final doc of mine"
     }
   ]
 }

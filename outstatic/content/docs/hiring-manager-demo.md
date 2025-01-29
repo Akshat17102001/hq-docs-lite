@@ -18,11 +18,17 @@ Every great hire is the result of seamless teamwork. But let's face it—collect
 ## **How does this functionality help the users?**
 
 - **Effortless collaboration:** Bring hiring managers OR decision-makers together in one centralized platform.
+
 - **Real-time feedback**: Collect actionable insights instantly, without chasing anyone down.
+
 - **Intuitive and user-friendly**: An intuitive design that makes giving and reviewing feedback as easy as clicking a button.
+
 - **No more email chaos**: Streamline communication by replacing endless email chains with structured, on-platform feedback.
+
 - **Faster hiring decisions**: Cut down on delays and move candidates through the funnel with confidence.
+
 - **Improved transparency**: Give everyone involved a clear view of feedback to make informed, consensus-driven decisions.
+
 - **Unmatched efficiency**: Free up time and focus on what really matters hiring the right talent.
 
   **Let's turn stakeholder feedback from a bottleneck into your hiring superpower!**
@@ -31,4 +37,4 @@ Every great hire is the result of seamless teamwork. But let's face it—collect
 
 Here is a short video demonstrating how to use this feature on your EasySource projects
 
-![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)
+[![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)](video-placeholder.png)

@@ -1,6 +1,6 @@
 {
-  "commit": "e2e5617e1ab8df4eaadb819d6208e16be8eb6e08",
-  "generated": "Wed, 29 Jan 2025 06:06:05 GMT",
+  "commit": "88eaf21497c083cc9da51b4edf3bd2f2935f9bb9",
+  "generated": "2025-01-29T10:10:41.979Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,6 +73,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "88eaf21497c083cc9da51b4edf3bd2f2935f9bb9",
+        "hash": "1706104469",
+        "path": "outstatic/content/docs/this-is-the-one-more-test-application.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T10:41:44.163Z",
+      "slug": "this-is-the-one-more-test-application",
+      "status": "published",
+      "title": "This is the one more test application"
     }
   ]
 }

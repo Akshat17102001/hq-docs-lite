@@ -61,25 +61,21 @@ import Image from "next/image";
 import { useMemo } from "react";
 import { CustomCode, Pre } from "./custom-code";
 import CustomLink from "./custom-link";
-import ReactPlayer from 'react-player'
+import ReactPlayer from "react-player";
 const MDXComponentsMap = {
   a: CustomLink,
   Image,
   img: ({ src, alt, ...props }: any) => {
     // Check if the image is actually a video placeholder
-    console.log("src alt", src, alt);
-    return (
-      // <video 
-      //     className="rounded-lg border mt-4 w-full"
-      //     src={alt}
-      //     controls={true}
-      //     controlsList="nodownload" 
-      //     preload="metadata"
-      //     playsInline
-      //     {...props}
-      //   />
-      <ReactPlayer url={alt} />
-    );
+    console.log("src alt", src, alt, props);
+    if (src.includes("video-placeholder")) {
+      return (
+        <div className="rounded-lg border mt-4 w-full">
+          <ReactPlayer url={alt} />
+        </div>
+      );
+    }
+    return <img className="border rounded-lg" src={src} alt={alt} {...props} />;
   },
   pre: Pre,
   code: CustomCode,

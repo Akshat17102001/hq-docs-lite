@@ -68,10 +68,18 @@ const MDXComponentsMap = {
   img: ({ src, alt, ...props }: any) => {
     // Check if the image is actually a video placeholder
     console.log("src alt", src, alt, props);
-    if (src.includes("video-placeholder")) {
+    const isVideo = alt?.match(/\.(mp4|webm|mov)$/i) || alt?.includes('youtube.com') || alt?.includes('vimeo.com')
+    if (isVideo) {
       return (
         <div className="rounded-lg border mt-4 w-full">
-          <ReactPlayer url={alt} />
+<ReactPlayer
+        url={alt}
+        controls
+        width="100%"
+        height="auto"
+        playing={false}  // Auto-play can be enabled if needed
+      />
+
         </div>
       );
     }

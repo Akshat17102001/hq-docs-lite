@@ -61,7 +61,7 @@ import Image from "next/image";
 import { useMemo } from "react";
 import { CustomCode, Pre } from "./custom-code";
 import CustomLink from "./custom-link";
-
+import ReactPlayer from 'react-player'
 const MDXComponentsMap = {
   a: CustomLink,
   Image,
@@ -69,19 +69,16 @@ const MDXComponentsMap = {
     // Check if the image is actually a video placeholder
     console.log("src alt", src, alt);
     return (
-      <video 
-          className="rounded-lg border mt-4 w-full"
-          src={alt}
-          controls={true}
-          controlsList="nodownload" 
-          preload="metadata"
-          playsInline
-          {...props}
-        >
-          <source src={alt} type="video/mp4" />
-          <source src={alt} type="video/webm" />
-        Your browser does not support the video tag.
-      </video>
+      // <video 
+      //     className="rounded-lg border mt-4 w-full"
+      //     src={alt}
+      //     controls={true}
+      //     controlsList="nodownload" 
+      //     preload="metadata"
+      //     playsInline
+      //     {...props}
+      //   />
+      <ReactPlayer url={alt} />
     );
   },
   pre: Pre,

@@ -1,11 +1,11 @@
 {
-  "commit": "305b3e99dbe29c4067bd34eafec017dfc574ec10",
-  "generated": "Wed, 29 Jan 2025 10:13:47 GMT",
+  "commit": "9af9de06690f10f1175e97a765cc0153983a9f2c",
+  "generated": "Wed, 29 Jan 2025 10:14:18 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "9213a5f316b7cdac7810a1c819ae54f850606108",
-        "hash": "408001507",
+        "commit": "4965c7b8fcdcf135a58bc76dc1c108d97e36dac9",
+        "hash": "2148905518",
         "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
@@ -40,8 +40,8 @@
     },
     {
       "__outstatic": {
-        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
-        "hash": "852847260",
+        "commit": "7ef0d7c7d33cbac8871751ac26ece78801a37f93",
+        "hash": "302500592",
         "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
       },
       "author": {

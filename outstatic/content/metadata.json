@@ -1,12 +1,12 @@
 {
-  "commit": "76da3a2a6291f82b4da0ad90eed806f56024992f",
-  "generated": "2025-01-29T06:06:00.392Z",
+  "commit": "e2e5617e1ab8df4eaadb819d6208e16be8eb6e08",
+  "generated": "Wed, 29 Jan 2025 06:06:05 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
-        "hash": "852847260",
-        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+        "commit": "9a1d55adcd85a44811b41a39ea11421a9843b404",
+        "hash": "1571644857",
+        "path": "outstatic/content/docs/make-it-new-file.md"
       },
       "author": {
         "name": "Akshat jangid",
@@ -15,10 +15,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-28T12:49:55.916Z",
-      "slug": "this-is-be-final-doc-of-mine",
+      "publishedAt": "2025-01-28T12:38:17.627Z",
+      "slug": "make-it-new-file",
       "status": "published",
-      "title": "This is be final doc of mine"
+      "title": "Make it new file"
     },
     {
       "__outstatic": {
@@ -40,6 +40,24 @@
     },
     {
       "__outstatic": {
+        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
+        "hash": "852847260",
+        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:49:55.916Z",
+      "slug": "this-is-be-final-doc-of-mine",
+      "status": "published",
+      "title": "This is be final doc of mine"
+    },
+    {
+      "__outstatic": {
         "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
         "hash": "2229548952",
         "path": "outstatic/content/docs/introduction.md"
@@ -55,24 +73,6 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "76da3a2a6291f82b4da0ad90eed806f56024992f",
-        "hash": "3868772039",
-        "path": "outstatic/content/docs/make-it-new-file.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T12:38:17.627Z",
-      "slug": "make-it-new-file",
-      "status": "published",
-      "title": "Make it new file"
     }
   ]
 }

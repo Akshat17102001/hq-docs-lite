@@ -1,6 +1,6 @@
 {
-  "commit": "9af9de06690f10f1175e97a765cc0153983a9f2c",
-  "generated": "Wed, 29 Jan 2025 10:14:18 GMT",
+  "commit": "a8b41997287ebdb90ac842bf26d72e82b5714bfe",
+  "generated": "2025-01-29T11:07:02.670Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "a8b41997287ebdb90ac842bf26d72e82b5714bfe",
+        "hash": "1903587701",
+        "path": "outstatic/content/docs/hiring-manager-demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T11:30:54.238Z",
+      "slug": "hiring-manager-demo",
+      "status": "published",
+      "title": "Hiring Manager Demo"
     }
   ]
 }

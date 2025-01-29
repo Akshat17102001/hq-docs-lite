@@ -1,11 +1,11 @@
 {
-  "commit": "fd9ef55d6d2b8d2f910b6b5515bdd83111230a47",
-  "generated": "Wed, 29 Jan 2025 05:55:12 GMT",
+  "commit": "e2e5617e1ab8df4eaadb819d6208e16be8eb6e08",
+  "generated": "Wed, 29 Jan 2025 06:06:05 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "a9e49324c2a372e08223d62578c489f839218a0f",
-        "hash": "2239344165",
+        "commit": "9a1d55adcd85a44811b41a39ea11421a9843b404",
+        "hash": "1571644857",
         "path": "outstatic/content/docs/make-it-new-file.md"
       },
       "author": {
@@ -19,24 +19,6 @@
       "slug": "make-it-new-file",
       "status": "published",
       "title": "Make it new file"
-    },
-    {
-      "__outstatic": {
-        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
-        "hash": "852847260",
-        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T12:49:55.916Z",
-      "slug": "this-is-be-final-doc-of-mine",
-      "status": "published",
-      "title": "This is be final doc of mine"
     },
     {
       "__outstatic": {
@@ -55,6 +37,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "55245c92113c8b9ec3d4b7b3be0b6df492f1fd94",
+        "hash": "852847260",
+        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T12:49:55.916Z",
+      "slug": "this-is-be-final-doc-of-mine",
+      "status": "published",
+      "title": "This is be final doc of mine"
     },
     {
       "__outstatic": {

@@ -37,4 +37,4 @@ Every great hire is the result of seamless teamwork. But let's face it—collect
 
 Here is a short video demonstrating how to use this feature on your EasySource projects
 
-[![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)](video-placeholder.png)
+![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)

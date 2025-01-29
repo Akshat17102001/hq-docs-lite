@@ -1,6 +1,6 @@
 {
-  "commit": "1e1b36350220c8fdcbee60b1b03ad7d162e94fd9",
-  "generated": "Wed, 29 Jan 2025 11:59:51 GMT",
+  "commit": "9d6ac1df419928620988f3e3b043c9c41abbf182",
+  "generated": "2025-01-29T12:36:19.697Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "hirequotient-new-docs",
       "status": "published",
       "title": "HireQuotient new docs"
-    },
-    {
-      "__outstatic": {
-        "commit": "45931b73cf104cd63359dc7bf9a28df4617343f5",
-        "hash": "1903587701",
-        "path": "outstatic/content/docs/hiring-manager-demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T11:30:54.238Z",
-      "slug": "hiring-manager-demo",
-      "status": "published",
-      "title": "Hiring Manager Demo"
     },
     {
       "__outstatic": {
@@ -127,6 +109,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "9d6ac1df419928620988f3e3b043c9c41abbf182",
+        "hash": "1124252901",
+        "path": "outstatic/content/docs/hiring-manager-demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T11:30:54.238Z",
+      "slug": "hiring-manager-demo",
+      "status": "published",
+      "title": "Hiring Manager Demo"
     }
   ]
 }

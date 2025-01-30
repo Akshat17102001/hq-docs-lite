@@ -16,4 +16,5 @@ publishedAt: '2025-01-30T15:18:37.000Z'
 - [How does this functionality help the users?](/hiring-manager-demo#how-does-this-functionality-help-the-users)
 - [How to Use?](/hiring-manager-demo#how-to-use)
 - [Hirequotient New Docs](/hirequotient-new-docs)
+- How to use AI-Filters to find relevant candidates?
 - [Demo](/demo)

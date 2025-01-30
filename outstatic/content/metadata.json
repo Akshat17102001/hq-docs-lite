@@ -1,6 +1,6 @@
 {
-  "commit": "0dda600cc7d65c5f3d83a679eafe075747857d37",
-  "generated": "Wed, 29 Jan 2025 12:58:33 GMT",
+  "commit": "417fc69570c7f44c1d2e7da7016ea0c97de34852",
+  "generated": "2025-01-30T05:40:19.351Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "this-is-the-one-more-test-application",
       "status": "published",
       "title": "This is the one more test application"
-    },
-    {
-      "__outstatic": {
-        "commit": "7ef0d7c7d33cbac8871751ac26ece78801a37f93",
-        "hash": "302500592",
-        "path": "outstatic/content/docs/this-is-be-final-doc-of-mine.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-28T12:49:55.916Z",
-      "slug": "this-is-be-final-doc-of-mine",
-      "status": "published",
-      "title": "This is be final doc of mine"
     },
     {
       "__outstatic": {

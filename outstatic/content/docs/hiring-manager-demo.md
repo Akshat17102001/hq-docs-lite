@@ -1,5 +1,5 @@
 ---
-title: 'Hiring Manager Demo'
+title: 'Feedback Collection from Stakeholders like Hiring Managers'
 status: 'published'
 author:
   name: ''
@@ -9,8 +9,6 @@ description: ''
 coverImage: ''
 publishedAt: '2025-01-29T11:30:54.238Z'
 ---
-
-# **Feedback Collection from Stakeholders like Hiring Managers**
 
 \
 Every great hire is the result of seamless teamwork. But let's face it—collecting feedback from multiple stakeholders like hiring managers and interviewers can often be inefficient. With this new feature, we're revolutionizing the way you gather, manage, and act on feedback. Say goodbye to scattered emails, delayed responses, and missed insights. Now, you can keep everyone on the same page—literally—on one intuitive dashboard designed to move hiring decisions forward faster.

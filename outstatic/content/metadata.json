@@ -1,6 +1,6 @@
 {
-  "commit": "2a6c69266753dc45444f40bb9087f9704631114f",
-  "generated": "2025-01-30T15:24:04.316Z",
+  "commit": "c1ea09e9a4cf700a6b32e9a3f7dafd6f3a9ca33b",
+  "generated": "2025-01-30T15:42:26.987Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "006b7ac08350a992cf7a4657c47fe448c302874a",
-        "hash": "174189173",
-        "path": "outstatic/content/docs/hiring-manager-demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T11:30:54.238Z",
-      "slug": "hiring-manager-demo",
-      "status": "published",
-      "title": "Hiring Manager Demo"
     },
     {
       "__outstatic": {
@@ -145,6 +127,24 @@
       "slug": "ai-filters",
       "status": "draft",
       "title": "How to use AI-Filters to find relevant candidates?"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1ea09e9a4cf700a6b32e9a3f7dafd6f3a9ca33b",
+        "hash": "615967794",
+        "path": "outstatic/content/docs/hiring-manager-demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T11:30:54.238Z",
+      "slug": "hiring-manager-demo",
+      "status": "published",
+      "title": "Feedback Collection from Stakeholders like Hiring Managers"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title: 'Feedback Collection from Stakeholders like Hiring Managers'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/168521089?v=4'

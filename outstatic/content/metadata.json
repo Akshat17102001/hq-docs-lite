@@ -1,6 +1,6 @@
 {
   "commit": "c1ea09e9a4cf700a6b32e9a3f7dafd6f3a9ca33b",
-  "generated": "2025-01-30T16:08:05.200Z",
+  "generated": "2025-01-30T16:08:09.695Z",
   "metadata": [
     {
       "__outstatic": {
@@ -131,7 +131,7 @@
     {
       "__outstatic": {
         "commit": "c1ea09e9a4cf700a6b32e9a3f7dafd6f3a9ca33b",
-        "hash": "3696643375",
+        "hash": "615967794",
         "path": "outstatic/content/docs/hiring-manager-demo.md"
       },
       "author": {
@@ -143,7 +143,7 @@
       "description": "",
       "publishedAt": "2025-01-29T11:30:54.238Z",
       "slug": "hiring-manager-demo",
-      "status": "draft",
+      "status": "published",
       "title": "Feedback Collection from Stakeholders like Hiring Managers"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "commit": "1336a5bb99dc0cff9cff9fe236994cb677aee775",
-  "generated": "Thu, 30 Jan 2025 09:32:35 GMT",
+  "commit": "11e4dc215750a7a026599ecd73170853190dcf39",
+  "generated": "2025-01-30T12:31:35.851Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,24 @@
       "slug": "hirequotient-new-docs",
       "status": "published",
       "title": "HireQuotient new docs"
+    },
+    {
+      "__outstatic": {
+        "commit": "11e4dc215750a7a026599ecd73170853190dcf39",
+        "hash": "3094437093",
+        "path": "outstatic/content/docs/ai-filters-demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters-demo",
+      "status": "draft",
+      "title": "AI Filters Demo"
     }
   ]
 }

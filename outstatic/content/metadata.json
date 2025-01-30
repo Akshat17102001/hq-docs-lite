@@ -1,6 +1,6 @@
 {
-  "commit": "eaaf7ea26a9fc878a181586b6c1224c264d582e4",
-  "generated": "2025-01-30T05:40:31.416Z",
+  "commit": "ad99ef316ff335ff7857abdb3e96a6b9ef476fda",
+  "generated": "2025-01-30T05:41:01.755Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "c3f9472226ef215885f23fe854ed470134f6097b",
-        "hash": "1706104469",
-        "path": "outstatic/content/docs/this-is-the-one-more-test-application.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T10:41:44.163Z",
-      "slug": "this-is-the-one-more-test-application",
-      "status": "published",
-      "title": "This is the one more test application"
     },
     {
       "__outstatic": {

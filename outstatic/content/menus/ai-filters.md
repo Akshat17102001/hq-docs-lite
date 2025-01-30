@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: 'Andre Vitorio'
   picture: 'https://avatars.githubusercontent.com/u/1417109?v=4'
-slug: 'docs-menu'
+slug: 'ai-filters'
 description: ''
 coverImage: ''
 publishedAt: '2025-01-30T15:18:37.000Z'

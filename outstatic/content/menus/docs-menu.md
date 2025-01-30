@@ -18,4 +18,3 @@ publishedAt: '2024-03-16T15:18:37.000Z'
 - [How does this functionality help the users?](/hiring-manager-demo#how-does-this-functionality-help-the-users)
 - [How to Use?](/hiring-manager-demo#how-to-use)
 - [Hirequotient New Docs](/hirequotient-new-docs)
-- 

@@ -46,7 +46,7 @@ A Document is what you will be creating and editing more frequently. In the case
 
 Documents are saved at: `/outstatic/content/{collection}/{document}`
 
-Imagine we create a blog post titled: _How to raise a dragon_ \- the document would be: `/outstatic/content/posts/how-to-raise-a-dragon.md`
+Imagine we create a blog post titled: *How to raise a dragon* - the document would be: `/outstatic/content/posts/how-to-raise-a-dragon.md`
 
 Documents contains some data by default:
 

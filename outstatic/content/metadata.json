@@ -1,25 +1,7 @@
 {
-  "commit": "66117a2509e3f056376220893c5ac497e0da4261",
-  "generated": "2025-01-30T06:55:22.164Z",
+  "commit": "df4808ef9a72f86d9507a14d1da28c3545010ea8",
+  "generated": "2025-01-30T06:56:26.750Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
-        "hash": "2229548952",
-        "path": "outstatic/content/docs/introduction.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-05-26T17:50:55.000Z",
-      "slug": "introduction",
-      "status": "published",
-      "title": "Introduction"
-    },
     {
       "__outstatic": {
         "commit": "006b7ac08350a992cf7a4657c47fe448c302874a",
@@ -73,6 +55,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "df4808ef9a72f86d9507a14d1da28c3545010ea8",
+        "hash": "2894071242",
+        "path": "outstatic/content/docs/introduction.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-05-26T17:50:55.000Z",
+      "slug": "introduction",
+      "status": "published",
+      "title": "Introduction"
     }
   ]
 }

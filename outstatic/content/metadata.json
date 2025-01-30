@@ -1,6 +1,6 @@
 {
-  "commit": "09b457efa3aca4db1c886cc4bc04233d6e10ca71",
-  "generated": "2025-01-30T12:33:28.241Z",
+  "commit": "99baf26c254b4810f48f4dabf499e04036446b86",
+  "generated": "2025-01-30T12:34:14.332Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,24 +76,6 @@
     },
     {
       "__outstatic": {
-        "commit": "11e4dc215750a7a026599ecd73170853190dcf39",
-        "hash": "3094437093",
-        "path": "outstatic/content/docs/ai-filters-demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters-demo",
-      "status": "draft",
-      "title": "AI Filters Demo"
-    },
-    {
-      "__outstatic": {
         "commit": "09b457efa3aca4db1c886cc4bc04233d6e10ca71",
         "hash": "2885576207",
         "path": "outstatic/content/menus/docs-menu.md"
@@ -109,6 +91,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "99baf26c254b4810f48f4dabf499e04036446b86",
+        "hash": "3446298952",
+        "path": "outstatic/content/docs/ai-filters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "commit": "df4808ef9a72f86d9507a14d1da28c3545010ea8",
-  "generated": "2025-01-30T06:56:26.750Z",
+  "commit": "65ab551e11ff454c4aa1f6bbbddeec41437df70f",
+  "generated": "2025-01-30T09:31:19.001Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,6 +73,24 @@
       "slug": "introduction",
       "status": "published",
       "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "65ab551e11ff454c4aa1f6bbbddeec41437df70f",
+        "hash": "2214291809",
+        "path": "outstatic/content/docs/demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T10:01:21.883Z",
+      "slug": "demo",
+      "status": "published",
+      "title": "Demo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "commit": "09b457efa3aca4db1c886cc4bc04233d6e10ca71",
-  "generated": "2025-01-30T12:34:52.922Z",
+  "commit": "65ed479c1f8c365a74afaaf499e88c80d9d15cfb",
+  "generated": "2025-01-30T14:49:21.792Z",
   "metadata": [
     {
       "__outstatic": {
@@ -127,6 +127,24 @@
       "slug": "ai-filters",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "65ed479c1f8c365a74afaaf499e88c80d9d15cfb",
+        "hash": "2821009687",
+        "path": "outstatic/content/docs/ai-filters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
     }
   ]
 }

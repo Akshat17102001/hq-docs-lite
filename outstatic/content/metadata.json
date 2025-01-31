@@ -1,6 +1,6 @@
 {
-  "commit": "4699fcf40ba016d9e8e9ccf500b8eb95a2c66ffb",
-  "generated": "Fri, 31 Jan 2025 06:00:04 GMT",
+  "commit": "76d051e11eb60b625c568eb4ad73a480118cb3c8",
+  "generated": "2025-01-31T06:27:46.836Z",
   "metadata": [
     {
       "__outstatic": {
@@ -109,6 +109,24 @@
       "slug": "demo",
       "status": "published",
       "title": "Demo"
+    },
+    {
+      "__outstatic": {
+        "commit": "76d051e11eb60b625c568eb4ad73a480118cb3c8",
+        "hash": "884241777",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
+      "status": "published",
+      "title": "Docs Menu"
     }
   ]
 }

@@ -46,7 +46,6 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
-          <BuiltWithOutstatic />
         </ThemeProvider>
       </body>
     </html>

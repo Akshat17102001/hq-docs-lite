@@ -1,6 +1,6 @@
 {
-  "commit": "c9ebe416e979d04278c93ac0c0c1ddbffce77d3a",
-  "generated": "2025-01-31T07:51:10.521Z",
+  "commit": "2ebaed58956aec946ea0d2daf5912a3b31fca929",
+  "generated": "2025-01-31T07:52:44.041Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "2ebaed58956aec946ea0d2daf5912a3b31fca929",
+        "hash": "2002710290",
+        "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-31T07:54:32.992Z",
+      "slug": "how-to-create-your-candidate-pool",
+      "status": "draft",
+      "title": "How to create your candidate pool?"
     }
   ]
 }

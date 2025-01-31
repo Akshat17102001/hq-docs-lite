@@ -22,7 +22,6 @@ To create a highly relevant initial candidate pool, you can apply various filter
 
 - **Job Function**: Select the appropriate job function that aligns with the role’s responsibilities.
 
-
 - **Keywords**: Enter relevant keywords to refine search results and identify the most suitable candidates.
 
 - **Industry**: Choose the industry that best matches the candidate's background.

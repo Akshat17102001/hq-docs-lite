@@ -1,12 +1,30 @@
 {
-  "commit": "6a1ee54fdead8cd60f25a0dc06ed2a0753a644a4",
-  "generated": "2025-01-31T05:42:11.898Z",
+  "commit": "c77dd429aa3ad30bda888333f7154543658c0671",
+  "generated": "Fri, 31 Jan 2025 05:42:22 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "3c4700be567afb6e40817c18f77c7f06ab7ab778",
-        "hash": "1705641225",
-        "path": "outstatic/content/menus/docs-menu.md"
+        "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
+        "hash": "2821009687",
+        "path": "outstatic/content/docs/ai-filters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
+    },
+    {
+      "__outstatic": {
+        "commit": "2c63e69153d86adc2b03a14766a0262daec3917b",
+        "hash": "1468101811",
+        "path": "outstatic/content/menus/ai-filters.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -16,9 +34,27 @@
       "coverImage": "",
       "description": "",
       "publishedAt": "2025-01-30T15:18:37.000Z",
-      "slug": "docs-menu",
+      "slug": "ai-filters",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "963da1c32ee9c591b9b571d9eedf95a4630110ab",
+        "hash": "2214291809",
+        "path": "outstatic/content/docs/demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T10:01:21.883Z",
+      "slug": "demo",
+      "status": "published",
+      "title": "Demo"
     },
     {
       "__outstatic": {
@@ -40,61 +76,7 @@
     },
     {
       "__outstatic": {
-        "commit": "7d11805390acf982e01af693251bbc8781027032",
-        "hash": "3325373559",
-        "path": "outstatic/content/docs/hirequotient-new-docs.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T12:31:29.853Z",
-      "slug": "hirequotient-new-docs",
-      "status": "published",
-      "title": "HireQuotient new docs"
-    },
-    {
-      "__outstatic": {
-        "commit": "11e4dc215750a7a026599ecd73170853190dcf39",
-        "hash": "3094437093",
-        "path": "outstatic/content/docs/ai-filters-demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters-demo",
-      "status": "draft",
-      "title": "AI Filters Demo"
-    },
-    {
-      "__outstatic": {
-        "commit": "2a6c69266753dc45444f40bb9087f9704631114f",
-        "hash": "2821009687",
-        "path": "outstatic/content/docs/ai-filters.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters",
-      "status": "draft",
-      "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
-        "commit": "c1ea09e9a4cf700a6b32e9a3f7dafd6f3a9ca33b",
+        "commit": "1741e749d4d7792ca873116f91bbc868653ea913",
         "hash": "615967794",
         "path": "outstatic/content/docs/hiring-manager-demo.md"
       },
@@ -112,27 +94,9 @@
     },
     {
       "__outstatic": {
-        "commit": "9d504571b56a672fcfbcb41e5a3c808664b20edd",
-        "hash": "2969763206",
-        "path": "outstatic/content/menus/ai-filters.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T15:18:37.000Z",
-      "slug": "ai-filters",
-      "status": "published",
-      "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "6a1ee54fdead8cd60f25a0dc06ed2a0753a644a4",
-        "hash": "4259525411",
-        "path": "outstatic/content/docs/demo.md"
+        "commit": "7d11805390acf982e01af693251bbc8781027032",
+        "hash": "3325373559",
+        "path": "outstatic/content/docs/hirequotient-new-docs.md"
       },
       "author": {
         "name": "",
@@ -141,10 +105,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T10:01:21.883Z",
-      "slug": "demo",
+      "publishedAt": "2025-01-29T12:31:29.853Z",
+      "slug": "hirequotient-new-docs",
       "status": "published",
-      "title": "Demo"
+      "title": "HireQuotient new docs"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "commit": "7782abb9a80496858709f3f1b7f687980508792b",
-  "generated": "2025-01-31T05:57:26.064Z",
+  "commit": "4699fcf40ba016d9e8e9ccf500b8eb95a2c66ffb",
+  "generated": "Fri, 31 Jan 2025 06:00:04 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,21 +22,21 @@
     },
     {
       "__outstatic": {
-        "commit": "963da1c32ee9c591b9b571d9eedf95a4630110ab",
-        "hash": "2214291809",
-        "path": "outstatic/content/docs/demo.md"
+        "commit": "3be4efd96b7c768df1004f997d022d5b37877bb2",
+        "hash": "2969763206",
+        "path": "outstatic/content/menus/ai-filters.md"
       },
       "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
-      "collection": "docs",
+      "collection": "menus",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T10:01:21.883Z",
-      "slug": "demo",
+      "publishedAt": "2025-01-30T15:18:37.000Z",
+      "slug": "ai-filters",
       "status": "published",
-      "title": "Demo"
+      "title": "Docs Menu"
     },
     {
       "__outstatic": {
@@ -94,21 +94,21 @@
     },
     {
       "__outstatic": {
-        "commit": "7782abb9a80496858709f3f1b7f687980508792b",
-        "hash": "3619387202",
-        "path": "outstatic/content/menus/ai-filters.md"
+        "commit": "963da1c32ee9c591b9b571d9eedf95a4630110ab",
+        "hash": "4259525411",
+        "path": "outstatic/content/docs/demo.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
       },
-      "collection": "menus",
+      "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T15:18:37.000Z",
-      "slug": "ai-filters",
+      "publishedAt": "2025-01-30T10:01:21.883Z",
+      "slug": "demo",
       "status": "published",
-      "title": "Docs Menu"
+      "title": "Demo"
     }
   ]
 }

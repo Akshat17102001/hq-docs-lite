@@ -1,6 +1,6 @@
 {
-  "commit": "d460423ff1aead96ddf48da1fef882aa480fd022",
-  "generated": "2025-01-31T07:55:37.062Z",
+  "commit": "d4faaf6072f83fd58f7827e363e160702378c110",
+  "generated": "2025-01-31T07:57:14.383Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "hirequotient-new-docs",
       "status": "published",
       "title": "HireQuotient new docs"
-    },
-    {
-      "__outstatic": {
-        "commit": "b763b61e7e7425d2ea5143a9d5baf7b9c7ef9343",
-        "hash": "2894071242",
-        "path": "outstatic/content/docs/introduction.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-05-26T17:50:55.000Z",
-      "slug": "introduction",
-      "status": "published",
-      "title": "Introduction"
     },
     {
       "__outstatic": {
@@ -109,6 +91,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "d4faaf6072f83fd58f7827e363e160702378c110",
+        "hash": "2280792186",
+        "path": "outstatic/content/docs/introduction.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-05-26T17:50:55.000Z",
+      "slug": "introduction",
+      "status": "draft",
+      "title": "Introduction"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title: 'Introduction'
-status: 'published'
+status: 'draft'
 author:
   name: 'Andre Vitorio'
   picture: 'https://avatars.githubusercontent.com/u/1417109?v=4'

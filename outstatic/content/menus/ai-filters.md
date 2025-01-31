@@ -18,3 +18,4 @@ publishedAt: '2025-01-30T15:18:37.000Z'
 - [Hirequotient New Docs](/hirequotient-new-docs)
 - [How to use AI-Filters to find relevant candidates?](https://docs.hirequotient.com/outstatic/docs/ai-filters)
 - [Demo](/demo)
+- [New Demo](/demo)

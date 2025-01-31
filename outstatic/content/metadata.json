@@ -1,7 +1,25 @@
 {
-  "commit": "32b556759784023cda9136d181185f64697b0d25",
-  "generated": "2025-01-31T06:38:49.513Z",
+  "commit": "1e54770bc51b7c834819eda8bcebcda7f3230fe7",
+  "generated": "Fri, 31 Jan 2025 06:38:55 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "98b5e85310f3840c0f248cd318ed82dc4d760634",
+        "hash": "2807881227",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
+      "status": "published",
+      "title": "Docs Menu"
+    },
     {
       "__outstatic": {
         "commit": "b763b61e7e7425d2ea5143a9d5baf7b9c7ef9343",
@@ -73,24 +91,6 @@
       "slug": "ai-filters",
       "status": "draft",
       "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
-        "commit": "32b556759784023cda9136d181185f64697b0d25",
-        "hash": "885179985",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-16T15:18:37.000Z",
-      "slug": "docs-menu",
-      "status": "published",
-      "title": "Docs Menu"
     }
   ]
 }

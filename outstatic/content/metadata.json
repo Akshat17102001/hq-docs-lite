@@ -1,6 +1,6 @@
 {
-  "commit": "148c5438ecd4eab0d7f727f74349ad4c7ded883e",
-  "generated": "Fri, 31 Jan 2025 07:07:40 GMT",
+  "commit": "ac7b27075614e1190fdb452409ca78a4197fff5f",
+  "generated": "2025-01-31T07:19:38.352Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,24 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7d11805390acf982e01af693251bbc8781027032",
-        "hash": "3325373559",
-        "path": "outstatic/content/docs/hirequotient-new-docs.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T12:31:29.853Z",
-      "slug": "hirequotient-new-docs",
-      "status": "published",
-      "title": "HireQuotient new docs"
-    },
-    {
-      "__outstatic": {
         "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
         "hash": "2821009687",
         "path": "outstatic/content/docs/ai-filters.md"
@@ -91,6 +73,24 @@
       "slug": "ai-filters",
       "status": "draft",
       "title": "How to use AI-Filters to find relevant candidates?"
+    },
+    {
+      "__outstatic": {
+        "commit": "ac7b27075614e1190fdb452409ca78a4197fff5f",
+        "hash": "4148875781",
+        "path": "outstatic/content/docs/hirequotient-new-docs.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T12:31:29.853Z",
+      "slug": "hirequotient-new-docs",
+      "status": "published",
+      "title": "HireQuotient new docs"
     }
   ]
 }

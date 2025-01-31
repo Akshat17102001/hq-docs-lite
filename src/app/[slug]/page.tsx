@@ -17,13 +17,13 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   }
 
   return {
-    title: `${doc.title} - Outstatic`,
+    title: `${doc.title} - HireQuotient`,
     description: doc.description,
     openGraph: {
-      title: `${doc.title} - Outstatic`,
+      title: `${doc.title} - HireQuotient`,
       description: doc.description,
       type: 'article',
-      url: `https://outstatic.com/docs/${doc.slug}`,
+      url: `https://docs.hirequotient.com/${doc.slug}`,
       images: [
         {
           url: 'https://outstatic.com/images/og-image.png',

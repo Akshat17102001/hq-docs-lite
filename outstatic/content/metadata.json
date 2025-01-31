@@ -1,12 +1,12 @@
 {
-  "commit": "f5bea705961c27dbdfa4cbef8758dbe49ac57de1",
-  "generated": "2025-01-31T07:58:02.130Z",
+  "commit": "2ce7bc5a3ab8fd284cb855b6bc6e0f60da826b8d",
+  "generated": "Fri, 31 Jan 2025 07:59:02 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "1a57b979d21155fc3ea1f2ec2c2900847610ee77",
-        "hash": "3325373559",
-        "path": "outstatic/content/docs/hirequotient-new-docs.md"
+        "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
+        "hash": "2821009687",
+        "path": "outstatic/content/docs/ai-filters.md"
       },
       "author": {
         "name": "",
@@ -15,10 +15,64 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-29T12:31:29.853Z",
-      "slug": "hirequotient-new-docs",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
+    },
+    {
+      "__outstatic": {
+        "commit": "17dab0bc40356395b11c82bc0febfd63a7db7e0a",
+        "hash": "3057918197",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
       "status": "published",
-      "title": "HireQuotient new docs"
+      "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "b00fb49690a1202936f4034f70fd75bf7676dfaa",
+        "hash": "2894071242",
+        "path": "outstatic/content/docs/introduction.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-05-26T17:50:55.000Z",
+      "slug": "introduction",
+      "status": "published",
+      "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "7aea1248b8eb057fa3a42f1ce4df041063f4f94f",
+        "hash": "2002710290",
+        "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-31T07:54:32.992Z",
+      "slug": "how-to-create-your-candidate-pool",
+      "status": "draft",
+      "title": "How to create your candidate pool?"
     },
     {
       "__outstatic": {
@@ -40,9 +94,9 @@
     },
     {
       "__outstatic": {
-        "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
-        "hash": "2821009687",
-        "path": "outstatic/content/docs/ai-filters.md"
+        "commit": "1a57b979d21155fc3ea1f2ec2c2900847610ee77",
+        "hash": "4148875781",
+        "path": "outstatic/content/docs/hirequotient-new-docs.md"
       },
       "author": {
         "name": "",
@@ -51,64 +105,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters",
-      "status": "draft",
-      "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
-        "commit": "2ebaed58956aec946ea0d2daf5912a3b31fca929",
-        "hash": "2002710290",
-        "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-31T07:54:32.992Z",
-      "slug": "how-to-create-your-candidate-pool",
-      "status": "draft",
-      "title": "How to create your candidate pool?"
-    },
-    {
-      "__outstatic": {
-        "commit": "d4faaf6072f83fd58f7827e363e160702378c110",
-        "hash": "2280792186",
-        "path": "outstatic/content/docs/introduction.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-05-26T17:50:55.000Z",
-      "slug": "introduction",
-      "status": "draft",
-      "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "f5bea705961c27dbdfa4cbef8758dbe49ac57de1",
-        "hash": "428553556",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-16T15:18:37.000Z",
-      "slug": "docs-menu",
+      "publishedAt": "2025-01-29T12:31:29.853Z",
+      "slug": "hirequotient-new-docs",
       "status": "published",
-      "title": "Docs Menu"
+      "title": "HireQuotient new docs"
     }
   ]
 }

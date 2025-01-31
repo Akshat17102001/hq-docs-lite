@@ -1,6 +1,6 @@
 {
-  "commit": "054b3ee00faf9f44858622557b14b2b0d4342f0d",
-  "generated": "2025-01-31T07:50:55.779Z",
+  "commit": "c9ebe416e979d04278c93ac0c0c1ddbffce77d3a",
+  "generated": "2025-01-31T07:51:10.521Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "ai-filters",
       "status": "draft",
       "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
-        "commit": "1c7e0e2a8f56d257ac32a64c32bea403c86be76f",
-        "hash": "19666228",
-        "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-31T07:54:32.992Z",
-      "slug": "how-to-create-your-candidate-pool",
-      "status": "draft",
-      "title": "How to create your candidate pool?"
     },
     {
       "__outstatic": {

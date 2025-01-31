@@ -1,30 +1,12 @@
 {
-  "commit": "4699fcf40ba016d9e8e9ccf500b8eb95a2c66ffb",
-  "generated": "Fri, 31 Jan 2025 06:00:04 GMT",
+  "commit": "ff182123e99e70f003237270f01e23d4acd3afa2",
+  "generated": "Fri, 31 Jan 2025 06:28:01 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
-        "hash": "2821009687",
-        "path": "outstatic/content/docs/ai-filters.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters",
-      "status": "draft",
-      "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
-        "commit": "3be4efd96b7c768df1004f997d022d5b37877bb2",
-        "hash": "2969763206",
-        "path": "outstatic/content/menus/ai-filters.md"
+        "commit": "771e4180e78f5bccf44702e5cff984ca4da7172b",
+        "hash": "1365863231",
+        "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -33,8 +15,8 @@
       "collection": "menus",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T15:18:37.000Z",
-      "slug": "ai-filters",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
     },
@@ -94,9 +76,9 @@
     },
     {
       "__outstatic": {
-        "commit": "963da1c32ee9c591b9b571d9eedf95a4630110ab",
-        "hash": "4259525411",
-        "path": "outstatic/content/docs/demo.md"
+        "commit": "aadbc2fc1de3289815cdc0efdf9939dcd7d3680a",
+        "hash": "2821009687",
+        "path": "outstatic/content/docs/ai-filters.md"
       },
       "author": {
         "name": "",
@@ -105,10 +87,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-01-30T10:01:21.883Z",
-      "slug": "demo",
-      "status": "published",
-      "title": "Demo"
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
     }
   ]
 }

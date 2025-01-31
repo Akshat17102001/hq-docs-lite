@@ -71,15 +71,37 @@ const MDXComponentsMap = {
     const isVideo = alt?.match(/\.(mp4|webm|mov)$/i) || alt?.includes('youtube.com') || alt?.includes('vimeo.com')
     if (isVideo) {
       return (
-        <div className="rounded-lg border mt-4 w-full">
-<ReactPlayer
-        url={alt}
-        controls
-        width="100%"
-        height="auto"
-        playing={false}  // Auto-play can be enabled if needed
-      />
-
+        <div className="
+          my-8 
+          rounded-xl 
+          border 
+          border-gray-200 
+          dark:border-gray-800 
+          overflow-hidden 
+          shadow-lg 
+          w-full 
+          max-w-4xl 
+          mx-auto
+        ">
+          <ReactPlayer
+            url={alt}
+            controls
+            width="100%"
+            height="480px"
+            playing={false}
+            style={{
+              aspectRatio: '16/9',
+              backgroundColor: '#000'
+            }}
+            config={{
+              youtube: {
+                playerVars: {
+                  modestbranding: 1,
+                  rel: 0
+                }
+              }
+            }}
+          />
         </div>
       );
     }

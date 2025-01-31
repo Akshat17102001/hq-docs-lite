@@ -1,11 +1,11 @@
 {
-  "commit": "1e54770bc51b7c834819eda8bcebcda7f3230fe7",
-  "generated": "Fri, 31 Jan 2025 06:38:55 GMT",
+  "commit": "7d177fbd77000111d2cbde40fd350d96905e21ce",
+  "generated": "Fri, 31 Jan 2025 07:19:59 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "98b5e85310f3840c0f248cd318ed82dc4d760634",
-        "hash": "2807881227",
+        "commit": "42d23047d9c5ecba12b600e8f7a5159c39eefa1c",
+        "hash": "3387017714",
         "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
@@ -19,6 +19,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "1a57b979d21155fc3ea1f2ec2c2900847610ee77",
+        "hash": "3325373559",
+        "path": "outstatic/content/docs/hirequotient-new-docs.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-29T12:31:29.853Z",
+      "slug": "hirequotient-new-docs",
+      "status": "published",
+      "title": "HireQuotient new docs"
     },
     {
       "__outstatic": {
@@ -55,24 +73,6 @@
       "slug": "hiring-manager-demo",
       "status": "published",
       "title": "Feedback Collection from Stakeholders like Hiring Managers"
-    },
-    {
-      "__outstatic": {
-        "commit": "7d11805390acf982e01af693251bbc8781027032",
-        "hash": "3325373559",
-        "path": "outstatic/content/docs/hirequotient-new-docs.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-29T12:31:29.853Z",
-      "slug": "hirequotient-new-docs",
-      "status": "published",
-      "title": "HireQuotient new docs"
     },
     {
       "__outstatic": {

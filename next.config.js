@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: '/introduction',
+        destination: '/hiring-manager-demo',
         permanent: true
       }
     ]

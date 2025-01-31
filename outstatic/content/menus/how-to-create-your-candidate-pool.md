@@ -14,4 +14,4 @@ publishedAt: '2024-03-16T15:18:37.000Z'
 - [Hiring Manager Demo](/hiring-manager-demo)
   - [How does this functionality help the users?](/hiring-manager-demo#how-does-this-functionality-help-the-users)
 - [AI Filters](/ai-filters)
-- How to create your candidate pool?
+- [How to create your candidate pool?](https://docs.hirequotient.com/outstatic/docs/how-to-create-your-candidate-pool)

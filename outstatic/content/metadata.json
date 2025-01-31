@@ -1,6 +1,6 @@
 {
-  "commit": "9d504571b56a672fcfbcb41e5a3c808664b20edd",
-  "generated": "2025-01-31T05:41:44.795Z",
+  "commit": "6a1ee54fdead8cd60f25a0dc06ed2a0753a644a4",
+  "generated": "2025-01-31T05:42:11.898Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
-        "commit": "22cf4678f0acb61d56fa23dc7a7a5b313a8090c9",
-        "hash": "2214291809",
-        "path": "outstatic/content/docs/demo.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T10:01:21.883Z",
-      "slug": "demo",
-      "status": "published",
-      "title": "Demo"
     },
     {
       "__outstatic": {
@@ -145,6 +127,24 @@
       "slug": "ai-filters",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "6a1ee54fdead8cd60f25a0dc06ed2a0753a644a4",
+        "hash": "4259525411",
+        "path": "outstatic/content/docs/demo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T10:01:21.883Z",
+      "slug": "demo",
+      "status": "published",
+      "title": "Demo"
     }
   ]
 }

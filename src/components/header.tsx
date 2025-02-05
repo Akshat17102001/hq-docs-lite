@@ -182,7 +182,7 @@ const Header = () => {
             </Link>
           </div>
 
-          <div className="flex items-center ml-auto">
+          <div className="flex items-center ml-auto  ">
             <SocialLinks />
           </div>
         </div>

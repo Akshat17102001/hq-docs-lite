@@ -61,7 +61,7 @@ export default async function Post(params: Params) {
                 {formatDate(doc.publishedAt)}
               </time>
             </div>
-            <hr className="border-neutral-200 mt-10 mb-10" />
+            <hr className="border-neutral-200 mt-2 mb-2" />
             <div className="w-full prose prose-outstatic max-w-none">
               <MDXComponent content={doc.content} />
             </div>

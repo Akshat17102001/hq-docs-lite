@@ -101,14 +101,13 @@ export const MDXComponent = ({
   const Component = useMemo(() => getMDXComponent(content), [content]);
 
   return (
-    <div className="w-full max-w-[2400px]">
       <Component
         components={{
           ...MDXComponentsMap,
           ...components,
         } as any}
       />
-    </div>
+   
   );
 };
 

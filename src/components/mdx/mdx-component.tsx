@@ -107,7 +107,6 @@ export const MDXComponent = ({
           ...components,
         } as any}
       />
-   
   );
 };
 

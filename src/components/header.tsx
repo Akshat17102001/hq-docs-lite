@@ -164,7 +164,7 @@ import SocialLinks from './social-links'
 const Header = () => {
   return (
     <nav className="bg-white dark:bg-gray-900 backdrop-blur-sm bg-opacity-80 dark:bg-opacity-80 border-b border-gray-200 dark:border-gray-800 sticky top-0 z-50 w-full">
-      <div className="w-full max-w-[2560px] mx-auto px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 2xl:px-24">
+      <div className="w-full max-w-[2560px] mx-auto px-4 sm:px-6 md:px-8">
         <div className="flex justify-between items-center h-14 sm:h-16 md:h-18 lg:h-20">
           <div className="flex-1">
             <Link

@@ -49,25 +49,25 @@ export default async function Post(params: Params) {
     <>
       <Header />
       <div className="bg-background flex w-full">
-  <SidebarNav content={menu.content} />
-  <div className="w-full ml-0 md:ml-6 px-4 lg:px-6 xl:px-8 py-12 max-w-[1600px] overflow-x-scroll lg:overflow-x-auto">
-    <article className="mb-32 w-full">
-      <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
-        {doc.title}
-      </h1>
-      <div className="hidden md:block md:mb-12 text-slate-700 dark:text-slate-400">
-        Last updated on{' '}
-        <time dateTime={doc.publishedAt}>
-          {formatDate(doc.publishedAt)}
-        </time>
+        <SidebarNav content={menu.content} />
+        <div className="w-full ml-0 md:ml-6 px-4 lg:px-6 xl:px-8 py-12 max-w-[1400px] overflow-x-scroll lg:overflow-x-auto">
+          <article className="mb-32 w-full">
+            <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
+              {doc.title}
+            </h1>
+            <div className="hidden md:block md:mb-12 text-slate-700 dark:text-slate-400">
+              Last updated on{" "}
+              <time dateTime={doc.publishedAt}>
+                {formatDate(doc.publishedAt)}
+              </time>
+            </div>
+            <hr className="border-neutral-200 mt-10 mb-10" />
+            <div className="w-full prose prose-outstatic max-w-none">
+              <MDXComponent content={doc.content} />
+            </div>
+          </article>
+        </div>
       </div>
-      <hr className="border-neutral-200 mt-10 mb-10" />
-      <div className="w-full prose prose-outstatic max-w-[2000px]">
-  <MDXComponent content={doc.content} />
-</div>
-    </article>
-  </div>
-</div>
       <MobileMenu content={menu.content} />
     </>
   );

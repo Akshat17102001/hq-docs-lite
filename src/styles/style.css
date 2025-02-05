@@ -96,21 +96,7 @@ article img {
   max-width: 65rem; /* Remove the 50rem limitation */
 }
 
-.prose-outstatic > * {
-  max-width: none;
-}
-
-/* Ensure all content elements can expand fully */
-.prose-outstatic p,
-.prose-outstatic pre,
-.prose-outstatic table {
-  width: 100%;
-  max-width: none;
-}
-
-
-
-/* .prose-outstatic :where(h1, h2, h3, h4, h5, h6) {
+.prose-outstatic :where(h1, h2, h3, h4, h5, h6) {
   scroll-margin-top: 100px;
   position: relative;
   display: block;
@@ -119,9 +105,6 @@ article img {
   width: -webkit-fit-content;
   width: fit-content;
   @apply text-foreground;
-} */
-.prose-outstatic :where(h1, h2, h3, h4, h5, h6) {
-  max-width: none;
 }
 
 .prose-outstatic code:not(:where([data-theme])) {

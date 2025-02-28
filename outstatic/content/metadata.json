@@ -1,6 +1,6 @@
 {
-  "commit": "15ce4b905d05d7036f8aade6e8e730ebd5710ac3",
-  "generated": "2025-02-28T08:29:47.861Z",
+  "commit": "725466691383a6c24967afe3e3bd9507fc105930",
+  "generated": "2025-02-28T08:31:01.904Z",
   "metadata": [
     {
       "__outstatic": {
@@ -112,8 +112,8 @@
     },
     {
       "__outstatic": {
-        "commit": "15ce4b905d05d7036f8aade6e8e730ebd5710ac3",
-        "hash": "1542341921",
+        "commit": "725466691383a6c24967afe3e3bd9507fc105930",
+        "hash": "1466194447",
         "path": "outstatic/content/docs/candidate-review-how-to-assess-and-filter-candidates-effectively.md"
       },
       "author": {

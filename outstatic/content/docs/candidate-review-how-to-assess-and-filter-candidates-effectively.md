@@ -16,14 +16,16 @@ Selecting the right candidates is crucial for a successful hiring process. Candi
 
 **How It Helps?**
 
--  AI-generated candidate insights provide a detailed evaluation after vetting.
+- AI-generated candidate insights provide a detailed evaluation after vetting.
 - Candidates rated 5 and 4 stars are the best matches for your role.
 - Insights allow you to review candidates directly without manual screening.
 - Filters help you refine the candidate list to focus on the most suitable options.
 
 **What’s Covered in the Video?**
 
--  How to apply filters to refine your selection.
+- How candidate insights are generated and what they mean. 
+- How to interpret star ratings to identify top candidates.
+- How to apply filters to refine your selection.
 - Steps to take after reviewing insights to move forward with hiring.
 
 **Watch the Video**

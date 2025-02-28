@@ -1,6 +1,6 @@
 {
-  "commit": "0bd3561474ecd7e9de4628d4e6450a9fc5959926",
-  "generated": "2025-02-28T08:20:42.654Z",
+  "commit": "51b346ded88f91b3937cb19ce938b19bda642abe",
+  "generated": "2025-02-28T08:21:07.945Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,8 +94,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0bd3561474ecd7e9de4628d4e6450a9fc5959926",
-        "hash": "3270776949",
+        "commit": "51b346ded88f91b3937cb19ce938b19bda642abe",
+        "hash": "3414049756",
         "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
       },
       "author": {

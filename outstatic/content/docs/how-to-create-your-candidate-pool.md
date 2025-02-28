@@ -28,9 +28,9 @@ Building a strong initial candidate pool is the first step in finding the right 
 
 **Key Filters for Candidate Selection**
 
-- **Location** – Target candidates based on specific cities, states, or postal codes 
+- **Location** – Target candidates based on specific cities, states, or postal codes
 
-- **Years of Experience** – Define the required experience range for the role 
+- **Years of Experience** – Define the required experience range for the role
 
 - **Job Title** – Search for candidates based on current or past job titles
 

@@ -1,5 +1,5 @@
 ---
-title: 'How to create your candidate pool?'
+title: 'Blend Search - How to Build Your Initial Candidate Pool'
 status: 'draft'
 author:
   name: ''
@@ -10,26 +10,40 @@ coverImage: ''
 publishedAt: '2025-01-31T07:54:32.992Z'
 ---
 
-Building an initial pool of relevant candidates is crucial, as it serves as the foundation for identifying the most ideal hires. To streamline this process, we offer a range of filters that help you efficiently create a highly relevant candidate pool from the start.
+Building a strong initial candidate pool is the first step in finding the right talent. With Blend Search, you can simplify this process by applying smart filters to refine your search and quickly identify the best candidates.
 
-To create a highly relevant initial candidate pool, you can apply various filter attributes. Below are the available filters:
+**Why Use Blend Search?**
 
-- **Locations**: Define specific geographic areas or postal codes to target candidates. Multiple locations can be added.
+- Save time by filtering candidates efficiently
+- Focus on relevant talent with precise search criteria
+- Streamline hiring by building a strong candidate pool from the start
 
-- **Years of Experience**: Set the required range of years of experience for the role.
+**What’s Covered in the Video**
 
-- **Job Title**: Specify the ideal job title(s) candidates should have. You can also filter candidates based on whether they have held this title in their past roles.
+- Setting up a project to start sourcing
+- Using filters to define your ideal candidate profile
+- Applying location, job title, job function, experience, company, industry, and keyword filters
+- Reviewing, refining, and adjusting your candidate pool
+- Adding candidates to your project seamlessly
 
-- **Job Function**: Select the appropriate job function that aligns with the role’s responsibilities.
+**Key Filters for Candidate Selection**
 
-- **Keywords**: Enter relevant keywords to refine search results and identify the most suitable candidates.
+- **Location** – Target candidates based on specific cities, states, or postal codes 
 
-- **Industry**: Choose the industry that best matches the candidate's background.
+- **Years of Experience** – Define the required experience range for the role 
 
-- **Companies**: Filter candidates based on their current or past employment at specific organizations.
+- **Job Title** – Search for candidates based on current or past job titles
 
-## **How to Use?**
+- **Job Function** – Narrow down candidates by relevant job functions
 
-Here is a short video demonstrating how to use this on your EasySource projects.
+- **Keywords** – Use specific terms to refine search results further
+
+- **Industry** – Focus on candidates with experience in a specific industry
+
+- **Companies** – Find candidates who have worked at specific organizations
+
+## Watch the Video
+
+See how easy it is to set up your candidate pool using Blend Search.
 
 ![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)

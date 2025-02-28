@@ -1,6 +1,6 @@
 {
   "commit": "c0e35ec3e82252d19a63bdf3e0711e7ce1e6a5de",
-  "generated": "2025-02-28T08:24:11.541Z",
+  "generated": "2025-02-28T08:26:54.152Z",
   "metadata": [
     {
       "__outstatic": {
@@ -95,7 +95,7 @@
     {
       "__outstatic": {
         "commit": "c0e35ec3e82252d19a63bdf3e0711e7ce1e6a5de",
-        "hash": "2722683915",
+        "hash": "3375444692",
         "path": "outstatic/content/docs/ai-filters.md"
       },
       "author": {
@@ -108,7 +108,7 @@
       "publishedAt": "2025-01-30T13:03:15.797Z",
       "slug": "ai-filters",
       "status": "draft",
-      "title": "How to use AI-Filters to find relevant candidates?"
+      "title": "How to Use AI-Filters to Find the Right Candidates"
     }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: 'How to use AI-Filters to find relevant candidates?'
+title: 'How to Use AI-Filters to Find the Right Candidates'
 status: 'draft'
 author:
   name: ''
@@ -19,7 +19,7 @@ Hiring the right candidate quickly is essential in today’s competitive job mar
 - Gain deeper insights into candidates by analyzing company revenue, funding, and tenure
 - Improve hiring accuracy by focusing only on relevant candidates
 
-It's important to be aware of the various types of criteria available that needs to be used appropriately to ensure quality screening:
+**Key vetting criteria tags:**
 
 - **Certifications**: Define criteria related to specific certification requirements necessary for the role.
 
@@ -46,8 +46,6 @@ It's important to be aware of the various types of criteria available that needs
   - **Example**: *"Candidate should have at least 2 years of experience in their last role."*
   - This criterion should be categorized under **Years of Experience** when it pertains only to tenure, without requiring company-related insights.
 
-## **How to Use?**
+## Watch the Video
 
-Here is a short video demonstrating how to use this on your EasySource projects.
-
-![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)
+Learn how to navigate AI-Filters and refine your candidate selection process with ease.![https://allhqclientpics.s3.ap-southeast-1.amazonaws.com/EasySource+Hiring+Manager.mp4](/images/1080x360-IzMj.jfif)

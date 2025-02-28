@@ -1,6 +1,6 @@
 {
-  "commit": "51b346ded88f91b3937cb19ce938b19bda642abe",
-  "generated": "2025-02-28T08:21:07.945Z",
+  "commit": "c0e35ec3e82252d19a63bdf3e0711e7ce1e6a5de",
+  "generated": "2025-02-28T08:24:11.541Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,24 +76,6 @@
     },
     {
       "__outstatic": {
-        "commit": "912f3083a7848c81e45387b477b181327836e6b0",
-        "hash": "2894400589",
-        "path": "outstatic/content/docs/ai-filters.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters",
-      "status": "draft",
-      "title": "How to use AI-Filters to find relevant candidates?"
-    },
-    {
-      "__outstatic": {
         "commit": "51b346ded88f91b3937cb19ce938b19bda642abe",
         "hash": "3414049756",
         "path": "outstatic/content/docs/how-to-create-your-candidate-pool.md"
@@ -109,6 +91,24 @@
       "slug": "how-to-create-your-candidate-pool",
       "status": "draft",
       "title": "Blend Search - How to Build Your Initial Candidate Pool"
+    },
+    {
+      "__outstatic": {
+        "commit": "c0e35ec3e82252d19a63bdf3e0711e7ce1e6a5de",
+        "hash": "2722683915",
+        "path": "outstatic/content/docs/ai-filters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "draft",
+      "title": "How to use AI-Filters to find relevant candidates?"
     }
   ]
 }

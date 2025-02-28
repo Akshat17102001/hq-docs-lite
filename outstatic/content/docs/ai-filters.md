@@ -10,7 +10,14 @@ coverImage: ''
 publishedAt: '2025-01-30T13:03:15.797Z'
 ---
 
-To ensure you're selecting the most relevant candidates, it's essential to apply specific vetting criteria after sourcing. By defining and categorizing criteria as 'must-have' or 'good-to-have,' you can streamline the selection process and focus on what truly matters.
+Hiring the right candidate quickly is essential in today’s competitive job market. AI-Filters help recruiters by automating the screening process, allowing you to focus on the best talent without spending hours reviewing resumes. With AI-driven insights, you can easily filter candidates based on key attributes.
+
+**Why Use AI-Filters?**
+
+- Automatically screen and shortlist the most relevant candidates
+- Define your own criteria, and AI will match candidates based on your needs
+- Gain deeper insights into candidates by analyzing company revenue, funding, and tenure
+- Improve hiring accuracy by focusing only on relevant candidates
 
 It's important to be aware of the various types of criteria available that needs to be used appropriately to ensure quality screening:
 

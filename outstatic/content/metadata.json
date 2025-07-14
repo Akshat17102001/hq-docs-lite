@@ -1,6 +1,6 @@
 {
-  "commit": "725466691383a6c24967afe3e3bd9507fc105930",
-  "generated": "2025-02-28T08:31:01.904Z",
+  "commit": "507dc449d2efd3327aa8ea9cc5f015587e321ce0",
+  "generated": "2025-07-14T13:35:02.360Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,24 +94,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c0e35ec3e82252d19a63bdf3e0711e7ce1e6a5de",
-        "hash": "3375444692",
-        "path": "outstatic/content/docs/ai-filters.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:03:15.797Z",
-      "slug": "ai-filters",
-      "status": "draft",
-      "title": "How to Use AI-Filters to Find the Right Candidates"
-    },
-    {
-      "__outstatic": {
         "commit": "725466691383a6c24967afe3e3bd9507fc105930",
         "hash": "1466194447",
         "path": "outstatic/content/docs/candidate-review-how-to-assess-and-filter-candidates-effectively.md"
@@ -127,6 +109,24 @@
       "slug": "candidate-review-how-to-assess-and-filter-candidates-effectively",
       "status": "draft",
       "title": "Candidate Review: How to Assess and Filter Candidates Effectively"
+    },
+    {
+      "__outstatic": {
+        "commit": "507dc449d2efd3327aa8ea9cc5f015587e321ce0",
+        "hash": "3178557855",
+        "path": "outstatic/content/docs/ai-filters.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/168521089?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:03:15.797Z",
+      "slug": "ai-filters",
+      "status": "published",
+      "title": "How to Use AI-Filters to Find the Right Candidates"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title: 'How to Use AI-Filters to Find the Right Candidates'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/168521089?v=4'
